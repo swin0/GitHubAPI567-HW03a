@@ -1,5 +1,5 @@
 import unittest
-from github_repos567 import get_user_repos_and_commits
+from github_repos import get_user_repos_and_commits
 
 class TestGitHubAPI(unittest.TestCase):
 
